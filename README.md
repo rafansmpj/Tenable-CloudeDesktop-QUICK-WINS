@@ -4,7 +4,14 @@ An agent that works with the Hexa AI MCP to build/generates an interactive Execu
 
 ## What it does
 
-Generates an interactive Executive Dashboard for Quick Wins to reduce the Tenable One Exposure Score across cumulative phases of 10%-20%-30%-40%-50%. ALWAYS use this skill when the user asks for quick wins, fast gains, a phased risk reduction plan, a remediation roadmap, how to reduce their score, which vulnerabilities to close first, a 50% reduction plan, an executive prioritization dashboard, or when they mention percentage-based exposure reduction goals. The skill connects to the Tenable HEXA AI MCP, calculates which vulnerabilities and actions generate the greatest score reduction with the least effort (high VPR × assets affected × fix ease), and presents an interactive visual dashboard with cumulative remediation phases, industry benchmark, and score projection. Also use when the user mentions "where to start", "highest impact with least effort", "10 to 50 percent reduction", "C-Level remediation prioritization", "executive security roadmap", or "vulnerability quick wins".
+Generates an interactive Executive Dashboard for Quick Wins to reduce the Tenable One Exposure Score across cumulative phases of 10%-20%-30%-40%-50%. ALWAYS use this skill when the user asks for quick wins, fast gains, a phased risk reduction plan, a remediation roadmap, how to reduce their score, which vulnerabilities to close first, a 50% reduction plan, an executive prioritization dashboard, or when they mention percentage-based exposure reduction goals. 
+
+The skill connects to the Tenable HEXA AI MCP, calculates which vulnerabilities and actions generate the greatest score reduction with the least effort (high VPR × assets affected × fix ease), and presents an interactive visual dashboard with cumulative remediation phases, industry benchmark, and score projection. Also use when the user mentions "where to start", "highest impact with least effort", "10 to 50 percent reduction", "C-Level remediation prioritization", "executive security roadmap", or "vulnerability quick wins".
+
+SAMPLE: 
+
+<img width="1005" height="446" alt="image" src="https://github.com/user-attachments/assets/12aacb99-dbf8-40ad-b202-98ed83b528dc" />
+
 
 ## Quick Start (5 minutes)
 
