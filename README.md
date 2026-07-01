@@ -1,6 +1,6 @@
 # Tenable Quick Wins - Claude Desktop Skills
 
-An agent that works with the Hexa AI MCP to build/generates an interactive Executive Dashboard for Quick Wins to reduce the Tenable One Exposure Score across cumulative phases of 10%-20%-30%-40%-50%. 
+An Cloude Desktop Skill that works with the Hexa AI MCP to build/generates an interactive Executive Dashboard for Quick Wins to reduce the Tenable One Exposure Score across cumulative phases of 10%-20%-30%-40%-50%. 
 
 ## What it does
 
