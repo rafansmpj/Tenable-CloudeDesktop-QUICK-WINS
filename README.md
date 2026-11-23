@@ -1,4 +1,6 @@
-<img width="468" height="62" alt="image" src="https://github.com/user-attachments/assets/e4e409e1-750e-4f18-8baf-73573e8ed6a2" /># Tenable Quick Wins - Claude Desktop Skill
+<img width="461" height="51" alt="image" src="https://github.com/user-attachments/assets/a04ed129-aa29-4b1f-aa2a-8573c3f92977" />
+
+# Tenable Quick Wins - Claude Desktop Skill
 
 An Cloude Desktop Skill that works with the Hexa AI MCP to build/generates an interactive Executive Dashboard for Quick Wins to reduce the Tenable One Exposure Score across cumulative phases of 10%-20%-30%-40%-50%. 
 
