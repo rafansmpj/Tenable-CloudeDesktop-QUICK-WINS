@@ -40,3 +40,4 @@ The folder should contain SKILL.md (and optionally README.md, LICENSE, listing.y
 
 Tenable Quick Wins Dashboard ROI and effort savings analysis
 
+Quick_Wins_Dashboard_ROI_Tenable.pdf
